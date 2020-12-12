@@ -33,9 +33,9 @@
 
 package leetcode.editor.cn;
 //Java：数字的补数
-public class P476NumberComplement{
+public class NumberComplement_476{
     public static void main(String[] args) {
-        Solution solution = new P476NumberComplement().new Solution();
+        Solution solution = new NumberComplement_476().new Solution();
         System.out.println(solution.findComplement(2));
     }
     //leetcode submit region begin(Prohibit modification and deletion)

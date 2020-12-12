@@ -24,9 +24,9 @@
 
 package leetcode.editor.cn;
 //Java：汉明距离
-public class P461HammingDistance{
+public class HammingDistance_461{
     public static void main(String[] args) {
-        Solution solution = new P461HammingDistance().new Solution();
+        Solution solution = new HammingDistance_461().new Solution();
         System.out.println(solution.hammingDistance(1,4));
     }
     //leetcode submit region begin(Prohibit modification and deletion)

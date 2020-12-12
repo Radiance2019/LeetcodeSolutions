@@ -27,9 +27,9 @@ package leetcode.editor.cn;
 import java.util.Arrays;
 
 //Java：最接近的三数之和
-public class P16ThreeSumClosest{
+public class ThreeSumClosest_16{
     public static void main(String[] args) {
-        Solution solution = new P16ThreeSumClosest().new Solution();
+        Solution solution = new ThreeSumClosest_16().new Solution();
         System.out.println(solution.threeSumClosest(new int[]{1,2,4,8,16,32,64,128}, 82));
     }
     //leetcode submit region begin(Prohibit modification and deletion)

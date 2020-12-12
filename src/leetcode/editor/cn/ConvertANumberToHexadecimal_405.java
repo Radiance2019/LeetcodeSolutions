@@ -34,9 +34,9 @@
 package leetcode.editor.cn;
 
 //Java：数字转换为十六进制数
-public class P405ConvertANumberToHexadecimal{
+public class ConvertANumberToHexadecimal_405{
     public static void main(String[] args) {
-        Solution solution = new P405ConvertANumberToHexadecimal().new Solution();
+        Solution solution = new ConvertANumberToHexadecimal_405().new Solution();
         System.out.println(solution.toHex(26));
     }
     //leetcode submit region begin(Prohibit modification and deletion)

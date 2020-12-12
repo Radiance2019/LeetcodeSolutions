@@ -26,9 +26,9 @@
 
 package leetcode.editor.cn;
 //Java：寻找两个正序数组的中位数
-public class P4MedianOfTwoSortedArrays{
+public class MedianOfTwoSortedArrays_4{
     public static void main(String[] args) {
-        Solution solution = new P4MedianOfTwoSortedArrays().new Solution();
+        Solution solution = new MedianOfTwoSortedArrays_4().new Solution();
         System.out.println(solution.findMedianSortedArrays(new int[]{1,3}, new int[]{2}));
     }
     //leetcode submit region begin(Prohibit modification and deletion)
